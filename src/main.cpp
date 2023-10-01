@@ -2,8 +2,8 @@
 #include "SDL.h"
 #include "SDL_opengl.h"
 
-#define WinW 256
-#define WinH 256
+#define WinW 1000
+#define WinH 1000
 
 int main(int, char**) {
     SDL_Window* win;
