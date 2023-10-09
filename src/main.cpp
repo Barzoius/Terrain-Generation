@@ -1,6 +1,7 @@
 #include <iostream>
 #include "SDL.h"
 #include "SDL_opengl.h"
+#include "GL/freeglut.h"
 
 #define WinW 1000
 #define WinH 1000
